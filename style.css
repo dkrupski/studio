@@ -1,0 +1,21 @@
+.logo {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.navbar-toggler {
+    background-color: transparent;
+    border: none;
+ }
+
+ .navbar-toggler:focus {
+    background-color: transparent;
+    box-shadow: none; 
+    border: none;
+ }
+
+ .navbar-toggler:hover {
+    background-color: transparent;
+    box-shadow: none; 
+    border: none;
+ }
